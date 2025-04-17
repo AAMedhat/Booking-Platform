@@ -132,7 +132,7 @@ Located in `src/components/booking/`:
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/booking-platform.git
+   git clone [https://github.com/your-username/booking-platform.git](https://github.com/AAMedhat/Booking-Platform.git)
    cd booking-platform
    ```
 
