@@ -141,11 +141,6 @@ Located in `src/components/booking/`:
    npm install
    ```
 
-3. Set up environment variables:
-   ```bash
-   cp .env.example .env.local
-   ```
-   
 4. Run the development server
    ```bash
    npm run dev
